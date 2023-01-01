@@ -6,11 +6,13 @@
 <tr>
 <td>S/N</td>
 <td>Name</td>
+<td>Description</td>
 </tr>
 </thead>
 <tr>
 <td>1</td>
 <td><a href="https://github.com/ayobamy/alx-backend-javascript/tree/main/0x00-ES6_basic">0x00-ES6_basic</a></td>
+<td>Description</td>
 </tr>
 <tr>
 <td>2</td>
