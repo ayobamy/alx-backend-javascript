@@ -22,5 +22,6 @@
 <tr>
 <td>3</td>
 <td><a href="https://github.com/ayobamy/alx-backend-javascript/tree/main/0x00-ES6_classes">0x02-ES6_classes</a></td>
+<td>This tasks deals deals with <b>Classes</b> in ES6 and how to use them.</td>
 </tr>
 </table>
