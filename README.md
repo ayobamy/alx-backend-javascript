@@ -2,10 +2,12 @@
 
 ## Tasks
 <table>
-<th>
+<thead>
+<tr>
 <td>S/N</td>
 <td>Name</td>
-</th>
+</tr>
+</thead>
 <tr>
 <td>1</td>
 <td><a href="https://github.com/ayobamy/alx-backend-javascript/tree/main/0x00-ES6_basic">0x00-ES6_basic</a></td>
