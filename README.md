@@ -17,11 +17,11 @@
 <tr>
 <td>2</td>
 <td><a href="https://github.com/ayobamy/alx-backend-javascript/tree/main/0x00-ES6_promise">0x01-ES6_promise</a></td>
-<td>This tasks deals majorly on what, why, and how to use <b>Promises</b> in ES6.</td>
+<td>This tasks deals majorly on what, why, and how to use <b>promises</b> in ES6.</td>
 </tr>
 <tr>
 <td>3</td>
 <td><a href="https://github.com/ayobamy/alx-backend-javascript/tree/main/0x00-ES6_classes">0x02-ES6_classes</a></td>
-<td>This tasks deals deals with <b>Classes</b> in ES6 and how to use them.</td>
+<td>This tasks deals deals with <b>classes</b> in ES6 and how to use them.</td>
 </tr>
 </table>
