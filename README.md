@@ -25,3 +25,4 @@
 <td>This tasks deals deals with <b>classes</b> in ES6 and how to use them.</td>
 </tr>
 </table>
+
