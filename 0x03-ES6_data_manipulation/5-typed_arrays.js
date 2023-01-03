@@ -7,7 +7,7 @@ export default function createInt8TypedArray(length, position, value) {
   }
 
   dataView.setInt8(position, value);
-  return arr;
+  return dataView;
   //   for (let i = 0; i < length; i++) {
   //     dataView.setUint8(i, value);
   //   }
