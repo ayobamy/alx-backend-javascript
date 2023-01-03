@@ -22,11 +22,11 @@
 <tr>
 <td>3</td>
 <td><a href="https://github.com/ayobamy/alx-backend-javascript/tree/main/0x00-ES6_classes">0x02-ES6_classes</a></td>
-<td>This tasks deals deals with <b>classes</b> in ES6 and how to use them.</td>
+<td>This tasks deals with <b>classes</b> in ES6 and how to use them.</td>
 </tr>
 <tr>
 <td>4</td>
 <td><a href="https://github.com/ayobamy/alx-backend-javascript/tree/main/0x03-ES6_data_manipulation">0x03-ES6_data_manipulation</a></td>
-<td>This tasks deals deals with <b>arrays</b> in ES6 and various ways of manipulating them using different methods.</td>
+<td>This tasks deals with <b>arrays</b> in ES6 and various ways of manipulating them using different methods.</td>
 </tr>
 </table>
