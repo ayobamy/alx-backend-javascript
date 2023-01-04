@@ -1,7 +1,7 @@
 export default function cleanSet(set, startString) {
   let str = '';
   const result = [];
-  const strLen = startString.length;
+  let strLen = startString.length;
 
   if ((startString) && (typeof startString === 'string')) {
     for (const elem of set) {
