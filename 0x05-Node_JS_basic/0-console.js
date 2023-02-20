@@ -1,3 +1,5 @@
-export default function displayMessage(data) {
+const displayMessage = function displayMessage(data) {
     process.stdout.write(data);
 }
+
+module.exports = displayMessage;
