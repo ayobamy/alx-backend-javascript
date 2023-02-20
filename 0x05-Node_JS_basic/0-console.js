@@ -1,3 +1,3 @@
-export default function displayMessage(data) {
+function displayMessage(data) {
     process.stdout.write(data);
 }
