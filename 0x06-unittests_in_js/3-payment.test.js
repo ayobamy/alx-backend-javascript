@@ -1,7 +1,7 @@
 const sinon = require('sinon');
-const chai =  require('chai');
-const sendPaymentRequestToApi = require("/3-payment");
 const Utils = require('./utils');
+const { expect } = require('chai');
+const sendPaymentRequestToApi = require('./3-payment');
 
 describe('sendPaymentRequestToApi', () => {
   it('calls Utils.calculateNumber with SUM type and 100, 20 as arguments', () => {
